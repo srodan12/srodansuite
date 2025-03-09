@@ -6,8 +6,9 @@ keep the scripts in the same folder and run srodsuite.py, it will download all t
 
 # audioChunker.py
 
+create chunks of a folder containing audios.
 # audioChunkstoCollage by hashorder.py
-
+orders chunks created by audioChunker by their hash height, creating a sound poetry.
 # bmpifyer.py
 
 # colo.py
