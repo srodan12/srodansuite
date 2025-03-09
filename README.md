@@ -21,18 +21,18 @@ creates 256x256 square images from raw data
 creates multiple files into a one big raw data file
 # dither.py
 in progress, to dither images
-# file2pngnamer.py
-
+# _file2pngnamer.py_
+deprecated
 # hex2aud.py
-
+create audio files from arbitrary data
 # hex2txt.py
-
-turns arbitrary hex data to text
+create text files from arbitrary data
 
 # hilbertbmpfiyer v2.py
+improved version of bmpfiyer.
 
-# hilberttest.py
-
+# _hilberttest.py_
+deprecated
 # img2txt.py
 
 # imgchunk2hex.py
