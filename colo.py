@@ -53,6 +53,6 @@ def process_images():
 # Tkinter UI setup
 root = Tk()
 root.withdraw()  # Hide the root window
-messagebox.showinfo("Instructions", "Please select the folder with 900 images.")
+messagebox.showinfo("Instructions", "Please select the folder with images.")
 
 process_images()
