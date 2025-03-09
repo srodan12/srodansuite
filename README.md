@@ -33,25 +33,16 @@ improved version of bmpfiyer.
 
 # _hilberttest.py_
 deprecated
-# img2txt.py
-
-# imgchunk2hex.py
-
-# imgchunk2hexrevise.py
 
 # multifileimg.py
-
+create ab şnage frın multiple files
 # srodsuite.py
 
 # srodtts.py
 
 # srodttsgui.py
-
+anonymized tts
 # srodttsguiotherrr.py
-
+2nd gui for anonymized tts
 # stegano.py
-
-# test_pyttsx3.py
-
-# testtts.py
-
+simple steganography
