@@ -77,6 +77,7 @@ SCRIPTS = [
     "colo.py",
     "cuttr.py",
     "data2hex.py",
+    "data2hexv2.py",
     "datas2raw.py",
     "dither.py",
     "file2pngnamer.py",
@@ -84,17 +85,13 @@ SCRIPTS = [
     "hex2txt.py",
     "hilbertbmpfiyer v2.py",
     "hilberttest.py",
-    "htmlparse.py",
     "img2txt.py",
-    "imgchunk2hex.py",
-    "imgchunk2hexrevise.py",
     "multifileimg.py",
     "srodtts.py",
     "srodttsgui.py",
     "srodttsguiotherrr.py",
     "stegano.py",
-    "testtts.py",
-    "test_pyttsx3.py",
+    "nn_upscaler.py",
 ]
 
 ##############################################################################
